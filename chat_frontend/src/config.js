@@ -1,5 +1,5 @@
 const getDefaultBackendOrigin = () => {
-  return "https://real-time-chat-applications-nyjr.onrender.com"
+  return "https://chattrix-shxa.onrender.com"
 };
 
 export const BACKEND_ORIGIN =
